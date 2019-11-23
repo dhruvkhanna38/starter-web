@@ -7,3 +7,6 @@ This repository is for showing how Git and GitHub work
 ## dolor sit emor
 
 Sample website with plenty of files for demos
+
+## lorem
+## ipsum
